@@ -3,7 +3,7 @@ print("Scallywag the Pirate")
 print("")
 print("")
 name = input("What is your name?")
-print("Hello " + name + "!")
+print("Howdymate " + name + "!")
 print("My name is Scallywag the pirate!")
 counter = 0
 while counter == 0:
@@ -32,4 +32,4 @@ while counter == 1:
   for each_word in list_of_words:
     print("i")
     
-    
+   # you can say for example Are you troubled? There's been a nasty itch on my back that I can reach arghhhh! its really horrible that you cannot do much about something.  I think I should get some help from me frien' perhaps?  You should too! 
