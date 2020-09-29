@@ -1,3 +1,7 @@
+
+print("Scallywag the Pirate")
+print("")
+print("")
 name = input("What is your name?")
 print("Hello " + name + "!")
 print("My name is Scallywag the pirate!")
