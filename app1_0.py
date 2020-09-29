@@ -22,7 +22,7 @@ while counter == 0:
       print("Working your butt off the whole day? Hardworking, I'se say.")
       print("You should remember to hole up once in a while, lad")
       counter = 1
-    if counter = 0:
+    if counter == 0:
       print("What? I don't know what you are saying!")
       print("Oh nevermind. Your feelings can stay to yourself.")
       counter = 1      
