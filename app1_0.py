@@ -28,8 +28,13 @@ while counter == 0:
       counter = 1      
 while counter == 1:
   description = input("You look troubled, is that nasty shark biting your leg again?")
-  list_of_words = description.split()
-  for each_word in list_of_words:
-    print("i")
+ while counter == 1:
+  description = input("You look troubled, is that nasty shark biting your leg again?")
+  if description== 'yes':
+    print("aww, thats sad!")
+    counter= 0
+  if description== 'no':
+    print("good")
+    counter = 0
     
     
